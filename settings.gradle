@@ -1,0 +1,2 @@
+rootProject.name='binder_learn'
+include ':app'
